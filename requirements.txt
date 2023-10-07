@@ -1,0 +1,4 @@
+telebot 
+faker
+openai
+django
